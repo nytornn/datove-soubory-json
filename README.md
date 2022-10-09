@@ -9,4 +9,4 @@
 - rok vydání filmu je v **year**
 > *&lt;year&gt; "2021" &lt;/year&gt;*
 - poslední v databázi je **country**, která slouží k pojmenování země, kde se film odehrává
-> *&lt;country&gt; "Italy" &lt;/coun
+> *&lt;country&gt; "Italy" &lt;/country&gt;*
