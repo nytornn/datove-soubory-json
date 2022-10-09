@@ -1,7 +1,7 @@
 # Návod
 
 - každý film má svoje vlastní identifikační číslo **id** 
-> *&lt;movie id="1"&gt;*
+> *&lt;id="1"&gt;*
 - jméno filmu je v **name**
 > *&lt;name&gt; "No Time To Die" &lt;/name&gt;*
 - žánr můžete zapsat do **genre** 
