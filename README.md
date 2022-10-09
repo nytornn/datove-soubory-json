@@ -5,7 +5,7 @@
 - jméno je v **name** 
 - > *"name": "No Time To Die"*
 - žánr můžete zapsat do **genre** 
-- > *"genre": "Thriller
+- > *"genre": "Thriller"*
 - pro rok vydání slouží **year**
 - > *"year": 2021*
 - poslední v databázi je **country**, která slouží k pojmenování země, kde se film odehrává 
